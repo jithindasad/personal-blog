@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
   description = "My little corner in the interwebs."
   copyright = "Copyright © 2022 Jithin Das"
-  dark = "auto"
+  dark = "on"
   highlight = true
 
 [menu]
